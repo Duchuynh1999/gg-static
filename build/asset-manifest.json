@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3f46c4c.css",
+    "main.js": "/static/js/main.5cdd7d84.js",
+    "static/js/787.3f17924c.chunk.js": "/static/js/787.3f17924c.chunk.js",
+    "static/media/helicopter-logo.jpg": "/static/media/helicopter-logo.d99da83651fc055d202d.jpg",
+    "static/media/yukuyama.png": "/static/media/yukuyama.9899ab3c4cf718e6ced8.png",
+    "static/media/drones.jpg": "/static/media/drones.cd43880a922fe2b4dc66.jpg",
+    "static/media/el_androide_libre_101751982_180060003_1706x960.jpg": "/static/media/el_androide_libre_101751982_180060003_1706x960.4c808c413d4dba19d9f2.jpg",
+    "static/media/japanLogo.png": "/static/media/japanLogo.c7fc2dd38f81dec64d96.png",
+    "static/media/ana-logo.png": "/static/media/ana-logo.a39a9f25fbf5440992ce.png",
+    "static/media/jetstar-logo.png": "/static/media/jetstar-logo.531d66630b804b4b4606.png",
+    "static/media/senino.jpeg": "/static/media/senino.779a385906833f06ee58.jpeg",
+    "static/media/sagawa.jpeg": "/static/media/sagawa.b2b7e6c44651b3f2039e.jpeg",
+    "static/media/yamatoLogo.jpeg": "/static/media/yamatoLogo.970ea8b939938ce3653e.jpeg",
+    "static/media/amazonLogo.png": "/static/media/amazonLogo.55571129113cb17729f0.png",
+    "static/media/jap-logo.png": "/static/media/jap-logo.c38f0a448927e4d738a9.png",
+    "static/media/reset-14413.svg": "/static/media/reset-14413.c85e728500f17e3edc3195c209836fad.svg",
+    "static/media/polyline-pt-svgrepo-com.svg": "/static/media/polyline-pt-svgrepo-com.7acb76c3428a840e8507da9e2c9ed13f.svg",
+    "static/media/location-poi-svgrepo-com.svg": "/static/media/location-poi-svgrepo-com.ef103fd1e1ee6a4b1831ae1fdc98b8ac.svg",
+    "index.html": "/index.html",
+    "static/media/back.svg": "/static/media/back.9c7f751ac4ddbf1cdf1bfd1735d60128.svg",
+    "static/media/menu.svg": "/static/media/menu.8ac2d8d571f1fcf0cf753a529bbd930f.svg",
+    "main.a3f46c4c.css.map": "/static/css/main.a3f46c4c.css.map",
+    "main.5cdd7d84.js.map": "/static/js/main.5cdd7d84.js.map",
+    "787.3f17924c.chunk.js.map": "/static/js/787.3f17924c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3f46c4c.css",
+    "static/js/main.5cdd7d84.js"
+  ]
+}
